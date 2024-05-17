@@ -47,4 +47,15 @@ template
 是一个很好用的快捷写作工具，可以让你用不同的模板写论文、写文献笔记，提高你的写作效率。  
 
 Obsidian的PDF高亮插件
+- annotator 感觉不好用
+
 ![](../photo/Pasted%20image%2020240517095613.png)
+
+# 思维导图
+- markmind
+	- 支持图片
+	- 在脑图中直接复制图片，会使用 wiki 绝对路径 链接
+	- 在md中，则都ok
+- enhance mind
+	- 不支持图片
+
