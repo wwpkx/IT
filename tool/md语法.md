@@ -6,8 +6,11 @@
 - 加边框：`\boxed`用于给公式
 - **根号**：通用表达方式为`$\sqrt[a]{b}$`→ $\sqrt[a]{b}$
 - **分式**
-	- `$\frac {a}{b}$` →   $\frac {a}{b}$
-	- ``$a+1 \over b+1$`→ a + 1 b + 1 \rightarrow {a+1 \over b+1}`
+	- `$\frac {a}{b}$` -->  $\frac {a}{b}$
+	- `$a+1 \over b+1$` --> $a+1 \over b+1$
+- **大括号:** $\{a+b\}$ 或者 $\lbrace a+b \rbrace$
+- **向上取整**：$\lceil x \rceil$
+- **向下取整：**$\lfloor x \rfloor$
 
 # 特殊转义字符
 `# $ & ~ _ ^ \ { } %`
@@ -40,9 +43,37 @@
 | psi     | Ψ \PsiΨ     | $\Psi$          | ψ \psiψ          | $\psi$     |
 | omega   | Ω \OmegaΩ   | $\Omega$        | ω \omegaω        | $\Omega$   |
 
+# 大型数学运算符
+
+|    运算符    |     TeX      |    运算符     |      TeX      |
+| :-------: | :----------: | :--------: | :-----------: |
+|   \sum    |   ∑ \sum∑    |    \int    |    ∫ \int∫    |
+|   \prod   |   ∏ \prod∏   |   \iint    |   ∬ \iint∬    |
+|  \coprod  |  ∐ \coprod∐  |   \iiint   |   ∭ \iiint∭   |
+|  \bigvee  | ⋀ \bigwedge⋀ | \bigwedge  | ⋀ \bigwedge⋀  |
+| \bigoplus | ⨁ \bigoplus⨁ | \bigotimes | ⨂ \bigotimes⨂ |
+|  \bigcup  |  ⋃ \bigcup⋃  |    \lim    | lim ⁡ \limlim |
+# 三角函数
+
+|算式|Tex|备注|
+|:-:|:-:|:-:|
+|sin ⁡ \sinsin|`$\sin$`|正弦|
+|cos ⁡ \coscos|`$\cos$`|余弦|
+|tan ⁡ \tantan|`$\tan$`|正切|
+|cot ⁡ \cotcot|`$\cot$`|余切|
+|sec ⁡ \secsec|`$\sec$`|反正弦|
+|csc ⁡ \csccsc|`$\csc$`|反余弦|
+
+# 对数函数
+
+|      算式      |     Tex      |         备注         |
+| :----------: | :----------: | :----------------: |
+| ln ⁡ \ln{}ln |  `$\ln{}$`   | e为底的对数，`{}`中填对数内容  |
+| lg ⁡ \lg{}lg |  `$\lg{}$`   | 10为底的对数，`{}`中填对数内容 |
+|  $\log_a^b$  | `$\log_a^b$` |                    |
 # 例子
 $$ \boxed{E=mc^2} $$
 $A$
 $\alpha$
-$B$
+
 
