@@ -59,3 +59,6 @@ Obsidian的PDF高亮插件
 - enhance mind
 	- 不支持图片
 
+# git
+- git 菜单不见了
+	- 使用命令，然后执行 Open source control view
