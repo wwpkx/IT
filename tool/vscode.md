@@ -11,3 +11,7 @@ Configure Display Language
 - ctrl+shlft+p， minimap
 
 # 插件
+# vscode office
+- 又名，office viewer
+- 点开md文件后，直接是预览模式
+	- 对于很多只需要阅读的md文件，很方便
