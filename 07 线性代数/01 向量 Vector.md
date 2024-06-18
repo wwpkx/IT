@@ -1,6 +1,9 @@
 # 向量定义
 ![](../photo/Pasted%20image%2020240219173051.png)
 ![](../photo/Pasted%20image%2020240220151723.png)
+![](../photo/Pasted%20image%2020240618144154.png)
+![](../photo/Pasted%20image%2020240618144231.png)
+
 # 数乘
 ![](../photo/Pasted%20image%2020240219173109.png)
 
