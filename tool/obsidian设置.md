@@ -40,9 +40,6 @@ https://github.com/akaalias/obsidian-extract-pdf
 Note Refactor插件
 是一个很好用的**拆书工具**，可以让你用不同方式拆解一本书，打造自己的知识网络。
 
-Enhancing mind
-是一个免费绘制思维导图工具，你可以直接用它绘制自己的想法。
-
 template
 是一个很好用的快捷写作工具，可以让你用不同的模板写论文、写文献笔记，提高你的写作效率。  
 
@@ -52,12 +49,18 @@ Obsidian的PDF高亮插件
 ![](../photo/Pasted%20image%2020240517095613.png)
 
 # 思维导图
-- markmind
-	- 支持图片
-	- 在脑图中直接复制图片，会使用 wiki 绝对路径 链接
-	- 在md中，则都ok
-- enhance mind
-	- 不支持图片
+- mind map
+	- 数学公式显示有问题
+	- 根据 [markmap](https://markmap.js.org/) 实现
+		- 还有vscode插件版本
+- [MarkMindCkm (mark) (github.com)](https://github.com/MarkMindCkm/)
+	- markmind
+		- 支持图片
+		- 在脑图中直接复制图片，会使用 wiki 绝对路径 链接
+		- 在md中，则都ok
+	- enhance mind
+		- 在脑图中，可以显示图片
+		- 在脑图中，不能直接插入图片
 
 # git
 - git 菜单不见了
