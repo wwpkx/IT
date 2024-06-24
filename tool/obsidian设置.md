@@ -52,7 +52,7 @@ Obsidian的PDF高亮插件
 - mind map
 	- 数学公式显示有问题
 	- 根据 [markmap](https://markmap.js.org/) 实现
-		- 还有vscode插件版本
+		- 还有vscode插件版本,markmind
 - [MarkMindCkm (mark) (github.com)](https://github.com/MarkMindCkm/)
 	- markmind
 		- 支持图片
