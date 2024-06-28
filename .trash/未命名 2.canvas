@@ -1,8 +1,0 @@
-{
-	"nodes":[
-		{"id":"93410301ecb6b4f9","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":""},
-		{"id":"8ff31abd06308e7e","x":-200,"y":-200,"width":400,"height":202,"type":"file","file":"photo/Pasted image 20240624144300.png"},
-		{"id":"a4543324a619b76d","x":-200,"y":-99,"width":120,"height":60,"color":"1","type":"text","text":"搜东"}
-	],
-	"edges":[]
-}
