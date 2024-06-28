@@ -9,6 +9,9 @@
 
 # 设置
 ## 设置快捷键
+命令面板中的命令都可以设置为快捷键
+![](../photo/Pasted%20image%2020240628191924.png)
+
 
 **把文件删除到.trash文件夹**
 ![Pasted image 20220926100655](../photo/Pasted%20image%2020220926100655.png)
@@ -56,10 +59,12 @@ Obsidian的PDF高亮插件
 	- 根据 [markmap](https://markmap.js.org/) 实现
 		- 还有vscode插件版本,markmind
 - [MarkMindCkm (mark) (github.com)](https://github.com/MarkMindCkm/)
+	- 设置快捷键 ctrl+alt+h 切换 markdown 和 脑图
+		- 通过设置 -- 快捷键
 	- markmind
 		- 支持图片
-		- 在脑图中直接复制图片，会使用 wiki 绝对路径 链接
-		- 在md中，则都ok
+			- 在脑图中直接复制图片，**会使用 wiki 绝对路径 链接**
+			- 在md中，则都ok
 	- enhance mind
 		- 在脑图中，可以显示图片
 		- 在脑图中，不能直接插入图片
