@@ -4,5 +4,6 @@
   "trashOption": "local",
   "newFileLocation": "current",
   "attachmentFolderPath": "/photo",
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "promptDelete": false
 }
