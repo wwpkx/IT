@@ -1,4 +1,8 @@
 {
   "newLinkFormat": "relative",
-  "useMarkdownLinks": true
+  "useMarkdownLinks": true,
+  "trashOption": "local",
+  "newFileLocation": "current",
+  "attachmentFolderPath": "/photo",
+  "alwaysUpdateLinks": true
 }
