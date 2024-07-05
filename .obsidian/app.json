@@ -1,9 +1,1 @@
-{
-  "newLinkFormat": "relative",
-  "useMarkdownLinks": true,
-  "trashOption": "local",
-  "newFileLocation": "current",
-  "attachmentFolderPath": "/photo",
-  "alwaysUpdateLinks": true,
-  "promptDelete": false
-}
+{}
