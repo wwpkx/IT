@@ -11,3 +11,10 @@
 
 # PDF Guru
 - pdf转word时，表格可能有问题，表格是图片格式的
+
+
+# pdfedit
+- 不能用
+
+# LibreOffice
+- 好像不能pdf转word
