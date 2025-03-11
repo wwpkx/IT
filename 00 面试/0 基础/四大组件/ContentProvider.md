@@ -1,0 +1,3 @@
+- 作用：用于不同应用之间共享数据。
+- 系统自带的 ContactsProvider 可以让其他应用获取联系人数据，实现联系人信息的共享
+- 定义 URI：使用 URI 来唯一标识数据。例如，content://com.example.notesprovider/notes
