@@ -3,5 +3,11 @@
   "attachmentFolderPath": "/photo",
   "newFileLocation": "current",
   "newLinkFormat": "relative",
-  "promptDelete": false
+  "promptDelete": false,
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }
