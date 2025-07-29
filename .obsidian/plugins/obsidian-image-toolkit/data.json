@@ -4,7 +4,7 @@
   "viewImageInCPB": true,
   "viewImageWithLink": true,
   "viewImageOther": true,
-  "pinMaximum": 3,
+  "pinMaximum": 5,
   "pinCoverMode": true,
   "imageMoveSpeed": 10,
   "imgTipToggle": true,
@@ -21,6 +21,6 @@
   "galleryImgBorderActiveColor": "#FF0000",
   "moveTheImageHotkey": "NONE",
   "switchTheImageHotkey": "CTRL",
-  "doubleClickToolbar": "toolbar_full_screen",
+  "doubleClickToolbar": "toolbar_copy",
   "viewTriggerHotkey": "NONE"
 }
