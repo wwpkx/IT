@@ -1,6 +1,6 @@
 # 总流程
 - 在主机上编译Bootloader,  然后通过**JTAG烧入**
-	- **将BootLoader烧入到 nor flash中**, 并时候用nor flash启动（驱动、内核等都在**nand flash**中）
+	- **将BootLoader烧入到 nor flash中**, 并用nor flash启动（驱动、内核等都在**nand flash**中）
 	- 然后再通过BootLoader操作其他烧入，比如内核，驱动
 	- 从**nand flash启动**，测试驱动等
 - 在主机上编译嵌入式Linux内核，通过Bootloader烧入
